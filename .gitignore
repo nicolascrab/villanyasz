@@ -1,0 +1,19 @@
+# macOS system file
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Node modules (if you ever use Node.js)
+node_modules/
+
+# Sublime project files
+*.sublime-workspace
+*.sublime-project
+
+# Logs and temp files
+*.log
+
+# OS-specific hidden folders
+._*
